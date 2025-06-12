@@ -1,0 +1,37 @@
+.forecast-card-light {
+  background-color: #ffffff;
+  width: 14%!important;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.forecast-card-dark {
+  background-color: #212121;
+  width: 14%!important;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+}
+
+.accent-line {
+  height: 3px;
+  background-color: #0d6efd;
+  margin: 15px 0;
+  border-radius: 2px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .forecast-card-light {
+    width: 45%!important;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .forecast-card-dark {
+    width: 45%!important;
+    background-color: #212121;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+  }
+}
