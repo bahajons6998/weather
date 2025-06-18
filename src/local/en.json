@@ -4,5 +4,7 @@
   "input": "Input your city name",
   "5daysvisual": "5-Day Temperature Forecast Visual",
   "dark": "Dark",
-  "light": "Light"
+  "light": "Light",
+  "settings": "Settings",
+  "cancel": "Cancel"
 }
